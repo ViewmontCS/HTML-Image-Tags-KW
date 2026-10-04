@@ -1,1 +1,8 @@
-<img src="1.jpg" alt="rackets and ball">
+<h1> Rackets and Ball </h1>
+<img src="1.jpg" alt="rackets and ball" width="200">
+
+<h2> Ball on court </h2>
+<img src="2.jpg" alt="ball on court" width="200">
+
+<h3> Balls and Net</h3>
+<img src="3.jpg" alt="balls at net" width="200">
